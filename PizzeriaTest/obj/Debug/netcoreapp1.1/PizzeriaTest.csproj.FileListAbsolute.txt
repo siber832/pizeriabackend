@@ -1,0 +1,16 @@
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\bin\Debug\netcoreapp1.1\PizzeriaTest.deps.json
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\bin\Debug\netcoreapp1.1\PizzeriaTest.runtimeconfig.json
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\bin\Debug\netcoreapp1.1\PizzeriaTest.runtimeconfig.dev.json
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\bin\Debug\netcoreapp1.1\PizzeriaTest.dll
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\bin\Debug\netcoreapp1.1\PizzeriaTest.pdb
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\obj\Debug\netcoreapp1.1\PizzeriaTest.csprojResolveAssemblyReference.cache
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\obj\Debug\netcoreapp1.1\PizzeriaTest.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\obj\Debug\netcoreapp1.1\PizzeriaTest.AssemblyInfo.cs
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\obj\Debug\netcoreapp1.1\PizzeriaTest.dll
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\obj\Debug\netcoreapp1.1\PizzeriaTest.pdb
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\bin\Debug\netcoreapp1.1\Pizzeriaa.dll
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\bin\Debug\netcoreapp1.1\Pizzeriaa.pdb
+C:\Users\danie\Source\Repos\Pizzeriaa\PizzeriaTest\obj\Debug\netcoreapp1.1\PizzeriaTest.AssemblyInfoInputs.cache

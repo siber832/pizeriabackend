@@ -1,0 +1,11 @@
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\obj\Debug\netcoreapp1.1\Pizzeriaa.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\obj\Debug\netcoreapp1.1\Pizzeriaa.AssemblyInfo.cs
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\obj\Debug\netcoreapp1.1\Pizzeriaa.csprojResolveAssemblyReference.cache
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\bin\Debug\netcoreapp1.1\Pizzeriaa.deps.json
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\bin\Debug\netcoreapp1.1\Pizzeriaa.runtimeconfig.json
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\bin\Debug\netcoreapp1.1\Pizzeriaa.runtimeconfig.dev.json
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\bin\Debug\netcoreapp1.1\Pizzeriaa.dll
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\bin\Debug\netcoreapp1.1\Pizzeriaa.pdb
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\obj\Debug\netcoreapp1.1\Pizzeriaa.dll
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\obj\Debug\netcoreapp1.1\Pizzeriaa.pdb
+C:\Users\danie\Source\Repos\Pizzeriaa\Pizzeriaa\obj\Debug\netcoreapp1.1\Pizzeriaa.AssemblyInfoInputs.cache

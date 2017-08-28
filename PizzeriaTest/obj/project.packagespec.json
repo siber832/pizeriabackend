@@ -1,0 +1,60 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\danie\\Source\\Repos\\Pizzeriaa\\PizzeriaTest\\PizzeriaTest.csproj",
+    "projectName": "PizzeriaTest",
+    "projectPath": "C:\\Users\\danie\\Source\\Repos\\Pizzeriaa\\PizzeriaTest\\PizzeriaTest.csproj",
+    "outputPath": "C:\\Users\\danie\\Source\\Repos\\Pizzeriaa\\PizzeriaTest\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {
+          "C:\\Users\\danie\\Source\\Repos\\Pizzeriaa\\Pizzeriaa\\Pizzeriaa.csproj": {
+            "projectPath": "C:\\Users\\danie\\Source\\Repos\\Pizzeriaa\\Pizzeriaa\\Pizzeriaa.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "Microsoft.EntityFrameworkCore.InMemory": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "15.3.0-preview-20170425-07"
+        },
+        "Pomelo.EntityFrameworkCore.MySql": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "Pomelo.EntityFrameworkCore.MySql.Design": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "2.2.0"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "2.2.0"
+        }
+      }
+    }
+  }
+}
